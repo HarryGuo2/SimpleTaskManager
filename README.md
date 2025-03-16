@@ -114,6 +114,5 @@ The app uses React Native's StyleSheet API for styling, with a clean, minimalist
 - Responsive sizing for different screens
 - Animated transitions for better user experience
 
-## License
-
-[Add your license information here] 
+## Simulation on my phone:
+(https://github.com/user-attachments/assets/f86f071a-dd36-45c7-84eb-f641634e05b5)
